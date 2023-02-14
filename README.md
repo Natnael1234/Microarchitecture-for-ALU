@@ -8,3 +8,5 @@ The microinstruction word contains the information for the datapath as well as t
 The design completes a single instruction per clock cycle.
 
 The implementation is tested for a code to find the number of ones in the input.
+
+copy
